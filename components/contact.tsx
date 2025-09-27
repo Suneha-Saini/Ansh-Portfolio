@@ -115,7 +115,7 @@ export function Contact() {
                 <Mail className="h-5 w-5" />
               </a>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/ansh-sharma-1ba135308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-secondary/30 hover:bg-secondary transition"
@@ -124,7 +124,7 @@ export function Contact() {
                 <Linkedin className="h-5 w-5" />
               </a>
               <a
-                href="https://github.com/"
+                href="https://github.com/anshsharma0007"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-secondary/30 hover:bg-secondary transition"

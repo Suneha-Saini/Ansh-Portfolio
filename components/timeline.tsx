@@ -32,15 +32,32 @@ const experience: Item[] = [
       "Learned best practices and contributed to training resources",
     ],
   },
+   {
+    title: "Cashier & Shift Incharge",
+    org: "Reliance Retails",
+    period: "12/2023 – 10/2024",
+    location: "Amritsar, India",
+    points: [
+      "Managed daily cash transactions efficiently, ensuring 100% accuracy and timely reconciliations.",
+      "Supervised and coordinated the store shift operations, including team task allocation and workflow management.",
+    ],
+  },
 ]
 
 const education: Item[] = [
   {
     title: "Bachelor's Degree",
     org: "Details available on request",
-    period: "Year – Year",
-    location: "",
+    period: "08/2022 – 07/2025",
+    location: "CKD Institute of Management and Technology",
     points: ["Coursework in programming, web development, and projects"],
+  },
+  {
+    title: "Secondary Education",
+    org: "Details available on request",
+    period: "04/2020 – 06/2022",
+    location: "Senior Studies",
+    points: ["Coursework in Physics, Chemistry, Maths"],
   },
 ]
 

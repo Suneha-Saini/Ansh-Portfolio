@@ -28,6 +28,12 @@ const projects = [
     img: "/jewellery-shop-website-screenshot.jpg",
     tag: "E‑commerce (Jewellery)",
   },
+  {
+    title: "Car Villa",
+    href: "https://github.com/anshsharma0007/cars-villa",
+    img: "/car.png",
+    tag: "Selling and Buying cars",
+  },
 ]
 
 export function Portfolio() {
