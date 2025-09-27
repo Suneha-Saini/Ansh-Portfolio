@@ -28,7 +28,6 @@ export function Hero() {
                 href="#contact"
                 className="text-sm text-muted-foreground underline underline-offset-4 hover:text-foreground transition"
               >
-                or use the contact form
               </a>
               <nav aria-label="Social links" className="flex items-center gap-3">
                 <a
@@ -63,7 +62,7 @@ export function Hero() {
           <div className="w-full md:w-2/5 flex justify-center">
             <div className="relative h-40 w-40 md:h-56 md:w-56 rounded-full ring-4 ring-primary/20 overflow-hidden">
               <Image
-                src="/placeholder-avatar.png"
+                src="/Ansh.jpeg"
                 alt="Professional photo of Ansh Sharma"
                 fill
                 sizes="224px"
